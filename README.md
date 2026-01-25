@@ -1,86 +1,85 @@
-# 👋 Hi, I'm Nancy Yadav
+# Nancy Yadav
 
-**Machine Learning Engineer | Data Science Enthusiast | Building Intelligent Systems**
-
-<p align="center">
-  <a href="https://github.com/Nancyy56"><img src="https://img.shields.io/badge/GitHub-Nancyy56-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/nancyy56"><img src="https://img.shields.io/badge/LinkedIn-Nancy%20Yadav-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:nancyyadav56@gmail.com"><img src="https://img.shields.io/badge/Email-nancyyadav56%40gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"></a>
-</p>
+**Machine Learning Engineer | Data Scientist | Intelligent Systems Developer**
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm passionate about building **intelligent systems** that solve real-world problems using **Machine Learning** and **Data Science**. Currently focused on emotion recognition, recommendation systems, and NLP applications.
+I am a results-driven Machine Learning Engineer with expertise in building scalable intelligent systems. I specialize in emotion recognition, recommendation systems, and natural language processing with a focus on production-ready solutions.
 
-- 🎓 Data Science & ML Enthusiast
-- 💻 Full-stack Python developer
-- 🎵 Building emotion-aware AI systems
-- 📊 Data-driven decision making
-- 🌍 Based in Delhi, India
+- M.L. & Data Science Professional
+- Full-stack Python Developer
+- Deep Learning & NLP Specialist
+- Building production-grade AI systems
+- Based in Delhi, India
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🎵 [Mood Path DJ](https://github.com/Nancyy56/mood_path_dj)
-**Emotion-based Music Playlist Generator with AI**
+### Mood Path DJ
+**Emotion-based Music Playlist Generator**
 
-An intelligent system that analyzes your emotional state through speech and text, then generates personalized playlists with smooth emotional transitions using A* pathfinding.
+An intelligent system that analyzes emotional states through speech and text, generating personalized playlists with smooth emotional transitions using graph-based pathfinding algorithms.
 
 **Key Features:**
-- 🎤 Speech emotion detection (HuBERT)
-- 📝 Text emotion analysis (DistilRoBERTa)
-- 🎵 Graph-based playlist generation
-- 🌐 Multi-language support
-- 🎨 Interactive web interface (Streamlit)
-- 🔗 Spotify API integration
+- Speech emotion detection (HuBERT)
+- Text emotion analysis (DistilRoBERTa)
+- Graph-based playlist generation with A* pathfinding
+- Multi-language support
+- Interactive web interface (Streamlit)
+- Spotify API integration
 
-**Tech Stack:** Python, PyTorch, HuggingFace, NetworkX, FastAPI, Streamlit
+**Technology Stack:** Python, PyTorch, HuggingFace, NetworkX, FastAPI, Streamlit
+
+[Repository](https://github.com/Nancyy56/mood-path-dj)
 
 ---
 
-### 🎬 [TudeMind](https://github.com/Nancyy56/tudemind)
+### TudeMind
 **AI-Powered YouTube Video Search Platform**
 
-Intelligent search and recommendation system for YouTube videos using advanced NLP and similarity matching.
+Intelligent search and recommendation system for YouTube videos utilizing advanced NLP and semantic similarity matching.
 
-**Tech Stack:** Python, NLP, Vector Search, FastAPI
+**Technology Stack:** Python, NLP, Vector Search, FastAPI
+
+[Repository](https://github.com/Nancyy56/tudemind)
 
 ---
 
-### 🔧 [Self-Healing ML Pipeline](https://github.com/Nancyy56/self-healing-ml-pipeline)
+### Self-Healing ML Pipeline
 **Automated ML Pipeline with Self-Correction**
 
-A robust ML pipeline that detects and automatically corrects anomalies in data processing.
+A robust machine learning pipeline that detects and automatically corrects anomalies in data processing workflows.
 
-**Tech Stack:** Python, Scikit-learn, PyTorch
+**Technology Stack:** Python, Scikit-learn, PyTorch
+
+[Repository](https://github.com/Nancyy56/self-healing-ml-pipeline)
 
 ---
 
-## 💡 Technical Skills
+## Technical Skills
 
-### Languages & Core Technologies
-```
-🐍 Python          ████████████████░░ 90%
-📊 SQL             ███████████░░░░░░░ 70%
-📈 Data Analysis   ████████████░░░░░░ 80%
-🤖 Machine Learning ██████████████░░░░ 85%
-```
+### Core Languages
+- Python (Advanced)
+- SQL (Intermediate)
+- JavaScript (Intermediate)
 
-### ML & AI
-- **Deep Learning:** PyTorch, TensorFlow, HuggingFace Transformers
-- **NLP:** Text Classification, Named Entity Recognition, Sentiment Analysis, Speech Processing
-- **Computer Vision:** Image Classification, Object Detection
-- **Recommendation Systems:** Collaborative Filtering, Content-Based
-- **Time Series:** ARIMA, LSTM, Prophet
+### Machine Learning & AI
+- Deep Learning: PyTorch, TensorFlow, HuggingFace Transformers
+- Natural Language Processing: Text Classification, NER, Sentiment Analysis, Speech Processing
+- Computer Vision: Image Classification, Object Detection
+- Recommendation Systems: Collaborative Filtering, Content-Based Filtering
+- Time Series Analysis: ARIMA, LSTM, Prophet
 
 ### Backend & Tools
-- **Frameworks:** FastAPI, Flask, Django, Streamlit
-- **Databases:** PostgreSQL, MongoDB, SQLite
-- **Tools:** Git, Docker, Jupyter, VS Code
-- **Cloud:** AWS basics, Google Colab
+- Frameworks: FastAPI, Flask, Django, Streamlit
+- Databases: PostgreSQL, MongoDB, SQLite
+- Version Control: Git
+- Containerization: Docker
+- IDEs: VS Code, Jupyter Notebooks
+- Cloud: AWS, Google Colab
 
 ### Data Science
 - Data Cleaning & Preprocessing
@@ -91,58 +90,44 @@ A robust ML pipeline that detects and automatically corrects anomalies in data p
 
 ---
 
-## 📊 GitHub Statistics
+## Professional Experience
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nancyy56&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nancyy56&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
+**Machine Learning Development**
+- Designed and implemented emotion detection systems using transformer models
+- Built graph-based recommendation engines with A* pathfinding algorithms
+- Developed multi-modal learning systems integrating text and speech analysis
+- Optimized ML pipelines for production deployment
 
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔬 Advanced emotion detection models (multimodal learning)
-- 📱 Mobile app for Mood Path DJ
-- 🌐 Deploying models on cloud infrastructure
-- 📚 Learning advanced distributed systems
+**Software Development**
+- Full-stack application development with Python and web frameworks
+- REST API design and implementation
+- Database design and optimization
+- Code quality and maintainability practices
 
 ---
 
-## 📚 Latest Blog Posts & Learning
+## GitHub Statistics
 
-- Building scalable ML systems
-- Emotion recognition and affective computing
-- Graph neural networks for recommendation
-- Natural language understanding improvements
+[View Full Profile](https://github.com/Nancyy56)
 
 ---
 
-## 🤝 Let's Connect!
+## Connect
 
-I'm always interested in:
-- 💼 Collaboration on ML/AI projects
-- 🎓 Knowledge sharing and discussions
-- 🚀 Open source contributions
-- 📞 Job opportunities in ML/Data Science
-
-**Feel free to:**
-- 📧 Email: [nancyyadav56@gmail.com](mailto:nancyyadav56@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nancyy56](https://linkedin.com/in/nancyy56)
-- 💬 Open an issue or PR on any of my projects
+- **GitHub:** [github.com/Nancyy56](https://github.com/Nancyy56)
+- **LinkedIn:** [linkedin.com/in/nancyy56](https://linkedin.com/in/nancyy56)
+- **Email:** [nancyyadav56@gmail.com](mailto:nancyyadav56@gmail.com)
 
 ---
 
-<div align="center">
+## Open To
 
-### ⭐ If you like my projects, consider giving them a star! 
-
-*Let's build something amazing together!* 🚀
-
-</div>
+- Contract and full-time opportunities in Machine Learning Engineering
+- Collaboration on AI/ML projects
+- Knowledge sharing and technical discussions
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by Nancy Yadav | Updated Jan 2026</sub>
+  <sub>Last Updated: January 2026</sub>
 </p>
