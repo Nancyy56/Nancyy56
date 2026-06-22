@@ -1,133 +1,111 @@
-# Nancy Yadav
+# Nancy Yadav — AI Engineer
 
-**Machine Learning Engineer | Data Scientist | Intelligent Systems Developer**
+Computer Science undergraduate focused on building retrieval systems, intelligent assistants, and production-grade NLP applications using Python and modern AI tooling.
 
----
+Primary interests:
 
-## About Me
+* Retrieval-Augmented Generation (RAG)
+* Natural Language Processing
+* Semantic Search Systems
+* AI Engineering
+* MLOps and Model Deployment
 
-I am a results-driven Machine Learning Engineer with expertise in building scalable intelligent systems. I specialize in emotion recognition, recommendation systems, and natural language processing with a focus on production-ready solutions.
-
-- M.L. & Data Science Professional
-- Full-stack Python Developer
-- Deep Learning & NLP Specialist
-- Building production-grade AI systems
-- Based in Delhi, India
+Currently focused on designing scalable AI systems that combine retrieval, reasoning, and automation.
 
 ---
 
-## Featured Projects
+# Core Skills
 
-### Mood Path DJ
-**Emotion-based Music Playlist Generator**
+### Languages
 
-An intelligent system that analyzes emotional states through speech and text, generating personalized playlists with smooth emotional transitions using graph-based pathfinding algorithms.
+Python, C++, SQL
 
-**Key Features:**
-- Speech emotion detection (HuBERT)
-- Text emotion analysis (DistilRoBERTa)
-- Graph-based playlist generation with A* pathfinding
-- Multi-language support
-- Interactive web interface (Streamlit)
-- Spotify API integration
+### AI & Machine Learning
 
-**Technology Stack:** Python, PyTorch, HuggingFace, NetworkX, FastAPI, Streamlit
+Scikit-Learn, PyTorch, XGBoost, Transformers
 
-[Repository](https://github.com/Nancyy56/mood-path-dj)
+### NLP
 
----
+Sentence Transformers, BERT, DistilRoBERTa, spaCy, NLTK
 
-### TudeMind
-**AI-Powered YouTube Video Search Platform**
+### Retrieval Systems
 
-Intelligent search and recommendation system for YouTube videos utilizing advanced NLP and semantic similarity matching.
+RAG, Dense Retrieval, Vector Embeddings, ChromaDB, ANN Search
 
-**Technology Stack:** Python, NLP, Vector Search, FastAPI
+### AI Engineering
 
-[Repository](https://github.com/Nancyy56/tudemind)
+FastAPI, Streamlit, Apache Airflow, MLflow
 
----
+### Data & Databases
 
-### Self-Healing ML Pipeline
-**Automated ML Pipeline with Self-Correction**
+Pandas, NumPy, MySQL, SQLite
 
-A robust machine learning pipeline that detects and automatically corrects anomalies in data processing workflows.
+### Tools
 
-**Technology Stack:** Python, Scikit-learn, PyTorch
-
-[Repository](https://github.com/Nancyy56/self-healing-ml-pipeline)
+Git, Docker, GitHub, Jupyter, Google Cloud Platform
 
 ---
 
-## Technical Skills
+# Featured Projects
 
-### Core Languages
-- Python (Advanced)
-- SQL (Intermediate)
-- JavaScript (Intermediate)
+## InsightRAG
 
-### Machine Learning & AI
-- Deep Learning: PyTorch, TensorFlow, HuggingFace Transformers
-- Natural Language Processing: Text Classification, NER, Sentiment Analysis, Speech Processing
-- Computer Vision: Image Classification, Object Detection
-- Recommendation Systems: Collaborative Filtering, Content-Based Filtering
-- Time Series Analysis: ARIMA, LSTM, Prophet
+Production-oriented Retrieval-Augmented Generation system designed for accurate and grounded question answering using vector retrieval and LLM-based reasoning.
 
-### Backend & Tools
-- Frameworks: FastAPI, Flask, Django, Streamlit
-- Databases: PostgreSQL, MongoDB, SQLite
-- Version Control: Git
-- Containerization: Docker
-- IDEs: VS Code, Jupyter Notebooks
-- Cloud: AWS, Google Colab
+Key Areas:
 
-### Data Science
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Evaluation & Optimization
-- Statistical Analysis
+* Semantic Retrieval
+* Vector Search
+* Context Construction
+* Grounded Generation
+* Knowledge-Augmented AI
 
 ---
 
-## Professional Experience
+## GovLens
 
-**Machine Learning Development**
-- Designed and implemented emotion detection systems using transformer models
-- Built graph-based recommendation engines with A* pathfinding algorithms
-- Developed multi-modal learning systems integrating text and speech analysis
-- Optimized ML pipelines for production deployment
+AI-powered policy and governance intelligence platform enabling users to explore, retrieve, and understand government-related information through natural language interaction.
 
-**Software Development**
-- Full-stack application development with Python and web frameworks
-- REST API design and implementation
-- Database design and optimization
-- Code quality and maintainability practices
+Key Areas:
+
+* Information Retrieval
+* NLP Pipelines
+* Semantic Search
+* Intelligent Query Processing
 
 ---
 
-## GitHub Statistics
+## DevScope
 
-[View Full Profile](https://github.com/Nancyy56)
+Codebase intelligence platform enabling semantic understanding and natural-language exploration of software repositories.
 
----
+Key Areas:
 
-## Connect
-
-- **GitHub:** [github.com/Nancyy56](https://github.com/Nancyy56)
-- **LinkedIn:** [linkedin.com/in/nancyy56](https://linkedin.com/in/nancyy56)
-- **Email:** [nancyyadav56@gmail.com](mailto:nancyyadav56@gmail.com)
-
----
-
-## Open To
-
-- Contract and full-time opportunities in Machine Learning Engineering
-- Collaboration on AI/ML projects
-- Knowledge sharing and technical discussions
+* AST-based Parsing
+* Code Retrieval
+* Repository Intelligence
+* RAG Workflows
+* FastAPI Backend
 
 ---
 
-<p align="center">
-  <sub>Last Updated: January 2026</sub>
-</p>
+# Current Focus
+
+* Advanced NLP
+* Retrieval-Augmented Generation
+* Large Language Models
+* AI System Design
+* Production ML Infrastructure
+
+---
+
+# Contact
+
+LinkedIn:
+linkedin.com/in/nancyy56
+
+GitHub:
+github.com/Nancyy56
+
+Email:
+[nnydv498@gmail.com](mailto:nnydv498@gmail.com)
