@@ -1,65 +1,48 @@
 # Nancy Yadav — AI Engineer
 
-Computer Science undergraduate focused on building retrieval systems, intelligent assistants, and production-grade NLP applications using Python and modern AI tooling.
+Computer Science undergraduate focused on building retrieval systems, NLP applications, and intelligent assistants using Python and modern AI tooling.
 
 Primary interests:
 
-* Retrieval-Augmented Generation (RAG)
-* Natural Language Processing
-* Semantic Search Systems
-* AI Engineering
-* MLOps and Production ML Infrastructure
+<ul>
+<li>Retrieval-Augmented Generation (RAG)</li>
+<li>Natural Language Processing</li>
+<li>Semantic Search Systems</li>
+<li>AI Engineering</li>
+<li>MLOps and Production ML Infrastructure</li>
+</ul>
 
 Currently building AI systems that combine retrieval, reasoning, and automation.
 
 ---
 
-# Core Skills
+## Core Skills
 
-Languages: Python, C++, SQL
-
-Machine Learning: Scikit-Learn, XGBoost, PyTorch, Transformers
-
-NLP: Sentence Transformers, BERT, DistilRoBERTa, spaCy, NLTK
-
-Retrieval Systems: RAG, ChromaDB, Vector Embeddings, ANN Search, Dense Retrieval
-
-AI Engineering: FastAPI, Streamlit, Apache Airflow, MLflow
-
-Data & Databases: Pandas, NumPy, MySQL, SQLite
-
-Tools: Git, Docker, GitHub, Jupyter Notebook, Google Cloud Platform
-
-Concepts: Semantic Retrieval, Model Serving, Prompt Engineering, Information Retrieval, Pipeline Automation
+Languages: Python, C++, SQL<br>
+Machine Learning: Scikit-Learn, XGBoost, PyTorch, Transformers<br>
+NLP: Sentence Transformers, BERT, DistilRoBERTa, spaCy, NLTK<br>
+Retrieval Systems: RAG, ChromaDB, Vector Embeddings, ANN Search, Dense Retrieval<br>
+AI Engineering: FastAPI, Streamlit, Apache Airflow, MLflow<br>
+Data & Databases: Pandas, NumPy, MySQL, SQLite<br>
+Tools: Git, Docker, GitHub, Jupyter Notebook, Google Cloud Platform<br>
+Concepts: Semantic Retrieval, Information Retrieval, Model Serving, Pipeline Automation
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-InsightRAG
-
+InsightRAG<br>
 https://github.com/Nancyy56/InsightRAG
 
-Production-oriented Retrieval-Augmented Generation system designed for grounded question answering using semantic retrieval and LLM-based reasoning.
-
----
-
-GovLens
-
+GovLens<br>
 https://github.com/Nancyy56/GovLens
 
-AI-powered governance intelligence platform enabling users to retrieve and understand public information through natural language interactions.
+DevScope<br>
+https://github.com/Nancyy56/DevScope
 
 ---
 
-DevScope
+## Contact
 
-Codebase intelligence platform enabling semantic search and natural-language exploration of software repositories.
-
----
-
-# Contact
-
-LinkedIn: https://linkedin.com/in/nancyy56
-
+LinkedIn: https://linkedin.com/in/nancyy56<br>
 Email: [nnydv498@gmail.com](mailto:nnydv498@gmail.com)
