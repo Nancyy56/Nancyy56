@@ -19,15 +19,15 @@ Currently building AI systems that combine retrieval, reasoning, and automation.
 
 ## Core Skills
 
-Languages: Python, C++, SQL<br>
-Machine Learning: Scikit-Learn, XGBoost, PyTorch, Transformers<br>
-NLP: Sentence Transformers, BERT, DistilRoBERTa, spaCy, NLTK<br>
-Retrieval Systems: RAG, ChromaDB, Vector Embeddings, ANN Search, Dense Retrieval<br>
-AI Engineering: FastAPI, Streamlit, Apache Airflow, MLflow<br>
-Automation: n8n, AI Agents, Webhooks, REST APIs, Google Calendar API<br>
-Data & Databases: Pandas, NumPy, MySQL, SQLite<br>
-Tools: Git, Docker, GitHub, Jupyter Notebook, Google Cloud Platform<br>
-Concepts: Semantic Retrieval, Information Retrieval, Model Serving, Pipeline Automation
+- **Languages:** Python, C++, SQL
+- **Machine Learning:** Scikit-Learn, XGBoost, PyTorch, Transformers
+- **NLP:** Sentence Transformers, BERT, DistilRoBERTa, spaCy, NLTK
+- **Retrieval Systems:** RAG, ChromaDB, Vector Embeddings, ANN Search, Dense Retrieval
+- **AI Engineering:** FastAPI, Streamlit, Apache Airflow, MLflow
+- **Automation:** n8n, AI Agents, Webhooks, REST APIs, Google Calendar API
+- **Data & Databases:** Pandas, NumPy, MySQL, SQLite
+- **Tools:** Git, Docker, GitHub, Jupyter Notebook, Google Cloud Platform
+- **Concepts:** Semantic Retrieval, Information Retrieval, Model Serving, Pipeline Automation
 
 ---
 
