@@ -23,18 +23,17 @@ Languages: Python, C++, SQL<br>
 Machine Learning: Scikit-Learn, XGBoost, PyTorch, Transformers<br>
 NLP: Sentence Transformers, BERT, DistilRoBERTa, spaCy, NLTK<br>
 Retrieval Systems: RAG, ChromaDB, Vector Embeddings, ANN Search, Dense Retrieval<br>
-AI Engineering: FastAPI, Streamlit, MLflow<br>
-Automation: n8n, AI Agents, LLM Structured Output (Gemini), Webhooks, REST APIs, Google Calendar API (OAuth2), WhatsApp Cloud API, Apache Airflow<br>
+AI Engineering: FastAPI, Streamlit, Apache Airflow, MLflow<br>
+Automation: n8n, AI Agents, Webhooks, REST APIs, Google Calendar API<br>
 Data & Databases: Pandas, NumPy, MySQL, SQLite<br>
 Tools: Git, Docker, GitHub, Jupyter Notebook, Google Cloud Platform<br>
-Concepts: Semantic Retrieval, Information Retrieval, Model Serving, Pipeline Automation, Workflow Orchestration, Idempotent Event Handling
+Concepts: Semantic Retrieval, Information Retrieval, Model Serving, Pipeline Automation
 
 ---
 
 ## Featured Projects
 
-Clinic AI Appointment Booking Agent (n8n)<br>
-AI agent that books clinic appointments from chat: Gemini extraction, Google Calendar availability checks, slot holds and double-booking protection.<br>
+Clinic AI Booking Agent<br>
 https://github.com/Nancyy56/clinic-ai-appointment-booking-agent
 
 InsightRAG<br>
