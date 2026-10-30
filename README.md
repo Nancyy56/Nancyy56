@@ -1,26 +1,54 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Nancy Yadav — AI Engineer · Retrieval Systems · NLP · AI Agents & Automation"/>
-</p>
+# Nancy Yadav — AI Engineer
 
-### About
+Computer Science undergraduate focused on building retrieval systems, NLP applications, intelligent assistants, and AI-powered automations using Python and modern AI tooling.
 
-AI engineer building retrieval systems, NLP applications and AI-driven automations that work reliably in production. Open to AI engineering and automation roles.
+Primary interests:
 
-### Tech Stack
+<ul>
+<li>Retrieval-Augmented Generation (RAG)</li>
+<li>Natural Language Processing</li>
+<li>Semantic Search Systems</li>
+<li>AI Engineering</li>
+<li>AI Agents and Workflow Automation</li>
+<li>MLOps and Production ML Infrastructure</li>
+</ul>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,fastapi,docker,gcp,mysql,git&theme=dark" alt="Python, C++, PyTorch, scikit-learn, FastAPI, Docker, Google Cloud, MySQL, Git"/>
-</p>
+Currently building AI systems that combine retrieval, reasoning, and automation.
 
-### Featured Projects
+---
 
-<p>
-  <a href="https://github.com/Nancyy56/clinic-ai-appointment-booking-agent"><img src="assets/projects/clinic.svg" width="49%" alt="Clinic AI Booking Agent"/></a>
-  <a href="https://github.com/Nancyy56/BizIntel-AI"><img src="assets/projects/bizintel.svg" width="49%" alt="BizIntel-AI"/></a>
-  <a href="https://github.com/Nancyy56/GovLens"><img src="assets/projects/govlens.svg" width="49%" alt="GovLens"/></a>
-  <a href="https://github.com/Nancyy56/devscope"><img src="assets/projects/devscope.svg" width="49%" alt="DevScope"/></a>
-</p>
+## Core Skills
 
-### Contact
+Languages: Python, C++, SQL<br>
+Machine Learning: Scikit-Learn, XGBoost, PyTorch, Transformers<br>
+NLP: Sentence Transformers, BERT, DistilRoBERTa, spaCy, NLTK<br>
+Retrieval Systems: RAG, ChromaDB, Vector Embeddings, ANN Search, Dense Retrieval<br>
+AI Engineering: FastAPI, Streamlit, MLflow<br>
+Automation: n8n, AI Agents, LLM Structured Output (Gemini), Webhooks, REST APIs, Google Calendar API (OAuth2), WhatsApp Cloud API, Apache Airflow<br>
+Data & Databases: Pandas, NumPy, MySQL, SQLite<br>
+Tools: Git, Docker, GitHub, Jupyter Notebook, Google Cloud Platform<br>
+Concepts: Semantic Retrieval, Information Retrieval, Model Serving, Pipeline Automation, Workflow Orchestration, Idempotent Event Handling
 
-[LinkedIn](https://linkedin.com/in/nancyy56) · [nnydv498@gmail.com](mailto:nnydv498@gmail.com)
+---
+
+## Featured Projects
+
+Clinic AI Appointment Booking Agent (n8n)<br>
+AI agent that books clinic appointments from chat: Gemini extraction, Google Calendar availability checks, slot holds and double-booking protection.<br>
+https://github.com/Nancyy56/clinic-ai-appointment-booking-agent
+
+InsightRAG<br>
+https://github.com/Nancyy56/InsightRAG
+
+GovLens<br>
+https://github.com/Nancyy56/GovLens
+
+DevScope<br>
+https://github.com/Nancyy56/DevScope
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/nancyy56<br>
+Email: [nnydv498@gmail.com](mailto:nnydv498@gmail.com)
